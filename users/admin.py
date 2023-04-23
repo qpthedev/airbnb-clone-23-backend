@@ -36,7 +36,7 @@ class CustomUserAdmin(UserAdmin):
             },
         ),
         (
-            "Importand Dates",
+            "Important Dates",
             {
                 "fields": (
                     "date_joined",
